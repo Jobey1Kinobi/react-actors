@@ -7,7 +7,7 @@ class Header extends Component {
                 <h1>React Actors</h1>
             </header>
         );
-    }
-}
+    };
+};
 
 export default Header;
